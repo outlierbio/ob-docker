@@ -1,0 +1,23 @@
+install.packages(c(
+  'broom',
+  'data.table',
+  'codetools',
+  'cowplot',
+  'devtools',
+  'ggrepel',
+  'ggthemes',
+  'GGally',
+  'heatmaply',
+  'magrittr',
+  'openxlsx',
+  'packrat',
+  'pheatmap',
+  'plotly',
+  'PKI',
+  'RJSONIO',
+  'rsconnect',
+  'tidyverse',
+  'treemap',
+  'useful',
+  'VennDiagram'
+), repos='http://cran.r-project.org')
